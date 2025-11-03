@@ -10,8 +10,8 @@ A cybersecurity tool to help identify potential vulnerabilities in websites.
 
 ## Developed with JuiceShop
 This application was developed with the OWASP Juice Shop website in order to test capabilities. I recommend using the docker image for further development / testing.<br>
-[Download/Setup JuiceShop](https://github.com/juice-shop/juice-shop?tab=readme-ov-file#from-sources)
-[Download Docker](https://www.docker.com/)
+[Download/Setup JuiceShop](https://github.com/juice-shop/juice-shop?tab=readme-ov-file#from-sources)<br>
+[Download Docker](https://www.docker.com/)<br>
 
 ## Juice Shop Docker Setup
 Run the following after installing docker to download Juice Shop: `docker pull bkimminich/juice-shop`<br>
