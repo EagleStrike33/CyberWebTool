@@ -1,6 +1,9 @@
 # CyberWebTool
 A cybersecurity tool to exploit vulnerabilites found in the OWASP Juice Shop website (v19.1.0).<br>
 
+## Demo
+Watch our video demo of the tool on Youtube: [CyberWebTool Demo](https://www.youtube.com/watch?v=RuP8dpQIkQA&t=21s)<br>
+
 ## Use Cases (and associated OWASP JS Achievements):
 1. Injection - Login Admin
 2. XSS - DOM XSS
